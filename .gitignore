@@ -1,4 +1,13 @@
 ##########################
+# Exploratory folder
+exploratory/
+exploratory/*
+
+# Data folder
+data/
+data/*
+
+##########################
 # Common files
 
 # IntelliJ
